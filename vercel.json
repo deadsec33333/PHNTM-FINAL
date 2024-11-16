@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/meet-boo-phantom-wallets-new-mascot",
+        "destination": "/meet-boo-phantom-wallets-new-mascot.html"
+      }
+    ]
+  }
+  
