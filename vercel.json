@@ -1,8 +1,8 @@
 {
     "rewrites": [
       {
-        "source": "/meet-Spooky-phantom-wallets-new-mascot",
-        "destination": "/meet-Spooky-phantom-wallets-new-mascot.html"
+        "source": "/meet-spooky-phantom-wallets-new-mascot",
+        "destination": "/meet-spooky-phantom-wallets-new-mascot.html"
       }
     ]
   }
